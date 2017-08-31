@@ -6,7 +6,8 @@ Inception_v4的Checkpoint：http://download.tensorflow.org/models/inception_v4_2
 
  **数据集** ：google的flower数据集http://download.tensorflow.org/example_images/flower_photos.tgz 5种类别的花
 
-本文内容是我学习智亮老师图像识别课程的一些笔记与想法，加深学习，并方便自己回顾。智亮老师的课程讲的还是挺不错的，受益匪浅。 
+本文内容是我学习智亮老师图像识别课程的一些笔记与想法，加深学习，并方便自己回顾。智亮老师的课程讲的还是挺不错的，受益匪浅。
+ 
  **代码** ：https://codeload.github.com/isiosia/models/zip/lession 
 
  **GitHub** ：https://github.com/isiosia/models/tree/lession
