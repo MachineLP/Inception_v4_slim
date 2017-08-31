@@ -1,0 +1,4 @@
+export DATASET_NAME=my_flower_5
+export DATASET_DIR="$HOME"/local_repo/datafile:///home/lwp/data/flower/my_flower_5 
+export CHECKPOINT_PATH=/home/dl/repository/pre_trained/inception_v4.ckpt
+export TRAIN_DIR=/tmp/my_train
