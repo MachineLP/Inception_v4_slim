@@ -20,6 +20,7 @@ from __future__ import print_function
 
 import math
 import tensorflow as tf
+import os
 
 from datasets import dataset_factory
 from nets import nets_factory
